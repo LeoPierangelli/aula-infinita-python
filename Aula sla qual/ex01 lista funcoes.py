@@ -5,6 +5,6 @@ def somatoria(fodase):
     return soma
 
 
-lista_de_numeros = [10,10,10]
+lista_de_numeros = [10,5,10]
 a = somatoria(lista_de_numeros)
 print(a)
